@@ -1,2 +1,1 @@
-# ProyectoFinal-Antecedentes
-Proyecto Final de la materia de Diseño de Software inicio 25/06/2021
+Proyecto de aplicación de escritorio desarrollada en java que premita registrar los antecedentes de las personas
