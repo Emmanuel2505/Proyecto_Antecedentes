@@ -1,0 +1,6 @@
+src/Vista/MainPruebas.java
+*.form
+/build/*.*
+/dist/
+dist/
+[bB]uild/*.*
